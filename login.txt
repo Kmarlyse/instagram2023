@@ -1,0 +1,5 @@
+login with email and password
+login with mobile number one time password
+login MFA
+login with facial recongnizition
+login finger print
